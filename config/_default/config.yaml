@@ -1,4 +1,4 @@
-baseURL: https://wwwng.github.io/versuch/
+baseURL: /versuch/
 title: Eureka Demo
 
 # Uncomment when not installing with Hugo Modules

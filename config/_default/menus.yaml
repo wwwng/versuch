@@ -8,6 +8,9 @@ main:
   - name: Docs
     url: /docs/
     weight: 3
-  - name: Über
-    url: '#about2'
+  - name: Vintage
+    url: '#vintage'
     weight: 4
+  - name: Experience
+    url: '#experience'
+    weight: 5

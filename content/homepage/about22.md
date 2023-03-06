@@ -18,9 +18,9 @@ social:
     iconPack: fab
     url: https://example.com/
 
-weight: 7
+weight: 8
 widget:
-  handler: about
+  handler: about22
 
   # Options: sm, md, lg and xl. Default is md.
   width:

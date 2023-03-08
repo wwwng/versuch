@@ -1,22 +1,22 @@
 ---
-title: Example Author
+#title:
 draft: false
-role: Example Role
+#role:
 avatar: images/EGO2_400x400.jpg
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
-organization:
-  name: Example Organization
-  url: https://example.com/
-social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:example@example.com
-  - icon: twitter
-    iconPack: fab
-    url: https://example.com/
-  - icon: github
-    iconPack: fab
-    url: https://example.com/
+#bio:
+#organization:
+#  name:
+#  url:
+#social:
+#  - icon: envelope
+#    iconPack: fas
+#    url: mailto:example@example.com
+#  - icon: twitter
+#    iconPack: fab
+#    url: https://example.com/
+#  - icon: github
+#    iconPack: fab
+#    url: https://example.com/
 
 weight: 1
 widget:
@@ -36,7 +36,7 @@ widget:
     color: secondary
     image: images/introbackground.jpg
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: cover
     # Options: center, top, right, bottom, left.
     position: center
     # Options: fixed, local, scroll.

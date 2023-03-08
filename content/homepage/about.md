@@ -2,7 +2,7 @@
 title: Example Author
 draft: false
 role: Example Role
-avatar: images/icon.png
+avatar: images/EGO2_400x400.jpg
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Example Organization
@@ -34,7 +34,7 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: images/introbackground.jpg
     # Options: auto, cover and contain. Default is auto.
     size:
     # Options: center, top, right, bottom, left.

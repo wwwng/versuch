@@ -38,7 +38,7 @@ widget:
     # Options: auto, cover and contain. Default is auto.
     size: cover
     # Options: center, top, right, bottom, left.
-    position: scroll
+    position:
     # Options: fixed, local, scroll.
     attachment:
 ---

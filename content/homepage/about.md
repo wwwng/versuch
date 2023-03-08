@@ -1,5 +1,5 @@
 ---
-#title:
+title: sakrum
 draft: false
 #role:
 avatar: images/EGO2_400x400.jpg
@@ -41,5 +41,8 @@ widget:
     position: center
     # Options: fixed, local, scroll.
     attachment:
+  
+  text:
+    color: tertiary
 ---
 

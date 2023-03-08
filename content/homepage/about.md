@@ -36,11 +36,11 @@ widget:
     color: secondary
     image: images/introbackground.jpg
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: cover
     # Options: center, top, right, bottom, left.
-    position:
+    position: scroll
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---
 
 ## Self Introduction

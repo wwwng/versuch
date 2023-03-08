@@ -36,7 +36,7 @@ widget:
     color: secondary
     image: images/introbackground.jpg
     # Options: auto, cover and contain. Default is auto.
-    size: cover
+    size:
     # Options: center, top, right, bottom, left.
     position: center
     # Options: fixed, local, scroll.
